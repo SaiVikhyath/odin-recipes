@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.heading {
+    background-color: lightsteelblue;
+    color: black;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 18px;
+    padding: 24px;
+}
+
+.heading-title {
+    margin: 8px auto;
+    text-align: center;
+}
+
+
+.list {
+    background-color: lightgray;
+    color: mediumslateblue;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 18px;
+    padding: 24px;
+}
+
+.unordered {
+    margin: 18px;
+    padding: 18px;
+}
+
+.ordered {
+    margin: 18px;
+    padding: 18px;
+}
+
+.list-item {
+    margin: 12px;
+    padding: 8px 16px;
+}
+
+.image {
+    width: 300px;
+    height: auto;
+    margin: 18px auto;
+}
+
+.sub-heading {
+    background-color: lightseagreen;
+    margin: 18px;
+    padding: 12px;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+p {
+    background-color: lightgray;
+    margin: 18px;
+    padding: 12px;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
